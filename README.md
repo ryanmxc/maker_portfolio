@@ -1,1 +1,3 @@
 # maker_portfolio
+
+This project was a creative solution to the problem of realistic drum recording in a home studio setting without the cost of professional equipment. I designed custom drum triggers to capture the subtle nuances of drumming, achieving a natural sound while staying budget-friendly. Using 3D printing, CAD software, piezo discs, and programming, I created mounts and optimized signal processing with the BeagleBone Black. Iterating through microcontroller setups, I ultimately learned assembly language to achieve real-time processing, culminating in a fully functional system that enhanced my home studio recordings.
